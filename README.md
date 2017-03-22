@@ -22,7 +22,8 @@ To są podstawowe założenia projektu. Wszelkie modyfikacje zwiększające gryw
 Elementy dodatkowe jak np. dźwięk uderzenia w drzewo, drgania drzewa po uderzeniu czy inne, są punktowane dodatkowo.
 
 Co będzie oceniane:
-łatwość wprowadzania zmian w kodzie 
-czystość i czytelność kodu
-grywalność
-poprawność działania
+
+* łatwość wprowadzania zmian w kodzie,
+* czystość i czytelność kodu,
+* grywalność,
+* poprawność działania
